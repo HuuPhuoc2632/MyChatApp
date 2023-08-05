@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyChatApp</string>
+    <string name="login">Login</string>
+    <string name="title">Sign in with continue</string>
+    <string name="hintUser">username</string>
+    <string name="hintPass">password</string>
+    <string name="textButtonLog">Login</string>
+    <string name="sign_in_with">Sign in with?</string>
+    <string name="register"> Register</string>
+    <string name="you_have_account">You have account?</string>
+    <string name="loginInRegisterAct">Login</string>
+    <string name="register_for_new_user">Register for new user</string>
+    <string name="registerInRegisterAct">Register</string>
+    <string name="textInButtonRegister">Register</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="nameOfUser">Huỳnh Hữu Phước</string>
+    <string name="setting">Setting</string>
+    <string name="log_out">Log out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_chat_line">this is line chat</string>
+    <string name="user_name">User Name</string>
+    <string name="g_u_m_v_i">Gấu mẹ vĩ đại</string>
+    <string name="enter_your_message">enter your message...</string>
+</resources>

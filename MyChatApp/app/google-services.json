@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952769416279",
+    "firebase_url": "https://messgaeapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "messgaeapp",
+    "storage_bucket": "messgaeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952769416279:android:15e93f4be47c05e47be712",
+        "android_client_info": {
+          "package_name": "com.hhp.huuphuoc372.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952769416279-75a9me4umdbivpni059lpcc07dksb3r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8aEHdYQNzxIsw95ba6wWN-oKOYdh3uA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952769416279-75a9me4umdbivpni059lpcc07dksb3r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
